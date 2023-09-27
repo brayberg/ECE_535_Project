@@ -8,9 +8,7 @@
 
 ## System Blocks
 
-## Hardware Requirements
-
-## Software Requirements
+## HW/SW Requirements
 
 ## Team Members Responsibilities
 
