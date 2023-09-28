@@ -22,7 +22,9 @@ Provided Data -> Federated Learning (using Laptop with CUDA-enabled GPU)
 
 ## Team Members Responsibilities
 Brayden Bergeron - Setup, Software
+
 Khushali Shah - Networking, algorithm designs 
+
 Jenny Utstein - Writing, Research
 
 ## Project Timeline
