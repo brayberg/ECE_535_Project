@@ -1,8 +1,9 @@
 # Federated Learning on Multimodal Sensor Data
 
 ## Motivation
-&nbsp Federated learning aims to train a machine learning model collaboratively while keeping the data of the participants private. Different types of sensitive data like images, audio, text, and sensor data can be collected to train models, but this information can be exploited by adversaries which would impact the privacy of parties. As adversarial capabilities continue to increase and attacks on machine learning models improve, the threat of an adversary recovering confidential data used to train models is increasing. Federated learning serves as a way to utilize data from multiple sources for a single learning application allowing for multiple parties to keep their data private.
-&nbsp Our group has experience dealing with machine learning models, specifically image recognition and using CUDA-enabled GPUs. We also have experience in security engineering and 547. This will also allow us to gain further knowledge in applying machine-learning approaches to our SDP projects.
+Federated learning aims to train a machine learning model collaboratively while keeping the data of the participants private. Different types of sensitive data like images, audio, text, and sensor data can be collected to train models, but this information can be exploited by adversaries which would impact the privacy of parties. As adversarial capabilities continue to increase and attacks on machine learning models improve, the threat of an adversary recovering confidential data used to train models is increasing. Federated learning serves as a way to utilize data from multiple sources for a single learning application allowing for multiple parties to keep their data private.
+
+Our group has experience dealing with machine learning models, specifically image recognition and using CUDA-enabled GPUs. We also have experience in security engineering and 547. This will also allow us to gain further knowledge in applying machine-learning approaches to our SDP projects.
  
 ## Design Goals
 - Use federated learning to understand and benchmark different datasets. The data could be in many different forms 
