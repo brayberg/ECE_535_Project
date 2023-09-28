@@ -26,7 +26,12 @@ Provided Data -> Federated Learning (using Laptop with CUDA-enabled GPU)
 - Jenny Utstein - Writing, Research
 
 ## Project Timeline
-- Our team will work on the project for at least 1-2 hours in a week 
+- Our team will work on the project for at least 1-2 hours in a week
+- Complete reviewing references
+- Gain an understanding of federated learning
+- Setup Python with CUDA enabled GPU
+- Begin analysis of datasets and analyzing model accuracy
+ 
 
 ## References
 - Multimodal Federated Learning on IOT Data (https://pure-research.york.ac.uk/ws/portalfiles/portal/ 79047763/2109.04833v2.pdf)
