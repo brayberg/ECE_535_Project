@@ -1,4 +1,4 @@
-# ECE_535_Project
+# Federated Learning on Multimodal Sensor Data
 
 ## Motivation
 
